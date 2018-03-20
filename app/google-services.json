@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578287244971",
+    "firebase_url": "https://fakezapp-b5caf.firebaseio.com",
+    "project_id": "fakezapp-b5caf",
+    "storage_bucket": "fakezapp-b5caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578287244971:android:de72f69eb18efdda",
+        "android_client_info": {
+          "package_name": "br.com.hugo.victor.fakezapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578287244971-cqu8vb2lcf4fmp0cdd4uj4vqmbgkpd3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.hugo.victor.fakezapp",
+            "certificate_hash": "bd2fa6e970c86df58923fe875459f78fd512294f"
+          }
+        },
+        {
+          "client_id": "578287244971-m811uoedt5muvgmc0jbejnhrq00qrelf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4NOfj8BWnhEhi72P8MARpaeUVPeL2-IA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578287244971-m811uoedt5muvgmc0jbejnhrq00qrelf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
